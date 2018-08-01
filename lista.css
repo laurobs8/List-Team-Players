@@ -1,0 +1,33 @@
+.done{
+    text-decoration: line-through;
+    color: rgb(211, 57, 57);
+}
+body{
+    background-color: #efefef;
+    position: absolute;
+    position: 100%;
+}
+section #tabela2 .container{
+    margin: auto;
+}
+.container li{
+    padding: 0px;   
+}
+.container{
+    padding-top: 10%;
+    margin-left: 16%;
+    border-bottom: 0px
+}
+section .container{
+    padding: 1%;
+    margin-left: 1%;
+    border-left: 1%;
+    color: rgb(219, 219, 18)
+}
+#tabela2{
+    padding-top: 10%;
+    margin-left: 62%;
+    margin-top: -262px; 
+    position: static;
+    
+}
